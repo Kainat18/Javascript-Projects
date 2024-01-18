@@ -1,10 +1,10 @@
 # Mini Javascript Projects
 
 1.Password Generator
-[image](./images/PasswordGenerator.png)
+![Password Generator](./images/PasswordGenerator.png)
 
 2.BaskeBall Scoreboard
-[image](./images/Scoreboard.png)
+![BaskeBall Scoreboard](./images/Scoreboard.png)
 
 3.Unit Converter
-[image](./images/UnitConverter.png)
+![Unit Converter](./images/UnitConverter.png)
